@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     paddingHorizontal: 20,
     paddingVertical: 50,
-    maxWidth: '500px',
+    maxWidth: '100%',
     alignItems: 'center',
   },
   text: {
